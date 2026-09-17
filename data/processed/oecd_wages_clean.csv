@@ -1,0 +1,41 @@
+Country,Country_Code,Year,Indicator_Code,Indicator,Value,Unit
+Germany,DEU,2014,WAGES,Average annual wages,69545.657,USD PPP per year
+Germany,DEU,2015,WAGES,Average annual wages,71243.967,USD PPP per year
+Germany,DEU,2016,WAGES,Average annual wages,72398.219,USD PPP per year
+Germany,DEU,2017,WAGES,Average annual wages,73176.585,USD PPP per year
+Germany,DEU,2018,WAGES,Average annual wages,74155.549,USD PPP per year
+Germany,DEU,2019,WAGES,Average annual wages,75376.183,USD PPP per year
+Germany,DEU,2020,WAGES,Average annual wages,74806.641,USD PPP per year
+Germany,DEU,2021,WAGES,Average annual wages,74656.666,USD PPP per year
+Germany,DEU,2022,WAGES,Average annual wages,73053.743,USD PPP per year
+Germany,DEU,2023,WAGES,Average annual wages,72953.447,USD PPP per year
+Japan,JPN,2014,WAGES,Average annual wages,51511.615,USD PPP per year
+Japan,JPN,2015,WAGES,Average annual wages,51026.717,USD PPP per year
+Japan,JPN,2016,WAGES,Average annual wages,51358.827,USD PPP per year
+Japan,JPN,2017,WAGES,Average annual wages,51067.532,USD PPP per year
+Japan,JPN,2018,WAGES,Average annual wages,51826.955,USD PPP per year
+Japan,JPN,2019,WAGES,Average annual wages,52069.774,USD PPP per year
+Japan,JPN,2020,WAGES,Average annual wages,51293.862,USD PPP per year
+Japan,JPN,2021,WAGES,Average annual wages,51822.753,USD PPP per year
+Japan,JPN,2022,WAGES,Average annual wages,51129.005,USD PPP per year
+Japan,JPN,2023,WAGES,Average annual wages,49970.485,USD PPP per year
+South Korea,KOR,2014,WAGES,Average annual wages,50476.464,USD PPP per year
+South Korea,KOR,2015,WAGES,Average annual wages,51768.996,USD PPP per year
+South Korea,KOR,2016,WAGES,Average annual wages,53213.789,USD PPP per year
+South Korea,KOR,2017,WAGES,Average annual wages,54320.429,USD PPP per year
+South Korea,KOR,2018,WAGES,Average annual wages,56175.921,USD PPP per year
+South Korea,KOR,2019,WAGES,Average annual wages,58081.983,USD PPP per year
+South Korea,KOR,2020,WAGES,Average annual wages,59418.876,USD PPP per year
+South Korea,KOR,2021,WAGES,Average annual wages,59841.667,USD PPP per year
+South Korea,KOR,2022,WAGES,Average annual wages,58696.806,USD PPP per year
+South Korea,KOR,2023,WAGES,Average annual wages,59198.03,USD PPP per year
+United States,USA,2014,WAGES,Average annual wages,75074.762,USD PPP per year
+United States,USA,2015,WAGES,Average annual wages,76999.191,USD PPP per year
+United States,USA,2016,WAGES,Average annual wages,77129.241,USD PPP per year
+United States,USA,2017,WAGES,Average annual wages,77970.611,USD PPP per year
+United States,USA,2018,WAGES,Average annual wages,78892.594,USD PPP per year
+United States,USA,2019,WAGES,Average annual wages,80317.647,USD PPP per year
+United States,USA,2020,WAGES,Average annual wages,85170.596,USD PPP per year
+United States,USA,2021,WAGES,Average annual wages,86695.78,USD PPP per year
+United States,USA,2022,WAGES,Average annual wages,84214.966,USD PPP per year
+United States,USA,2023,WAGES,Average annual wages,83866.258,USD PPP per year

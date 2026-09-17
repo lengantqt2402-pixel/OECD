@@ -1,0 +1,121 @@
+Country,Country_Code,Year,Indicator_Code,Indicator,Value,Unit
+Germany,DEU,2014,AVGHOURS,Average annual hours actually worked per worker,1400.0,Hours per year per person
+Germany,DEU,2014,GDPHOUR,GDP per hour worked,77.97713783187734,USD PPP per hour
+Germany,DEU,2014,WAGES,Average annual wages,69545.657,USD PPP per year
+Germany,DEU,2015,AVGHOURS,Average annual hours actually worked per worker,1401.6,Hours per year per person
+Germany,DEU,2015,GDPHOUR,GDP per hour worked,78.48493163318584,USD PPP per hour
+Germany,DEU,2015,WAGES,Average annual wages,71243.967,USD PPP per year
+Germany,DEU,2016,AVGHOURS,Average annual hours actually worked per worker,1395.8,Hours per year per person
+Germany,DEU,2016,GDPHOUR,GDP per hour worked,79.54771281876491,USD PPP per hour
+Germany,DEU,2016,WAGES,Average annual wages,72398.219,USD PPP per year
+Germany,DEU,2017,AVGHOURS,Average annual hours actually worked per worker,1388.2,Hours per year per person
+Germany,DEU,2017,GDPHOUR,GDP per hour worked,81.10085492613773,USD PPP per hour
+Germany,DEU,2017,WAGES,Average annual wages,73176.585,USD PPP per year
+Germany,DEU,2018,AVGHOURS,Average annual hours actually worked per worker,1380.7,Hours per year per person
+Germany,DEU,2018,GDPHOUR,GDP per hour worked,81.38619176211026,USD PPP per hour
+Germany,DEU,2018,WAGES,Average annual wages,74155.549,USD PPP per year
+Germany,DEU,2019,AVGHOURS,Average annual hours actually worked per worker,1372.0,Hours per year per person
+Germany,DEU,2019,GDPHOUR,GDP per hour worked,81.94773753764709,USD PPP per hour
+Germany,DEU,2019,WAGES,Average annual wages,75376.183,USD PPP per year
+Germany,DEU,2020,AVGHOURS,Average annual hours actually worked per worker,1313.6,Hours per year per person
+Germany,DEU,2020,GDPHOUR,GDP per hour worked,82.65223590207722,USD PPP per hour
+Germany,DEU,2020,WAGES,Average annual wages,74806.641,USD PPP per year
+Germany,DEU,2021,AVGHOURS,Average annual hours actually worked per worker,1341.2,Hours per year per person
+Germany,DEU,2021,GDPHOUR,GDP per hour worked,83.9727840718923,USD PPP per hour
+Germany,DEU,2021,WAGES,Average annual wages,74656.666,USD PPP per year
+Germany,DEU,2022,AVGHOURS,Average annual hours actually worked per worker,1343.4,Hours per year per person
+Germany,DEU,2022,GDPHOUR,GDP per hour worked,84.25514005129615,USD PPP per hour
+Germany,DEU,2022,WAGES,Average annual wages,73053.743,USD PPP per year
+Germany,DEU,2023,AVGHOURS,Average annual hours actually worked per worker,1338.8,Hours per year per person
+Germany,DEU,2023,GDPHOUR,GDP per hour worked,83.25213881369791,USD PPP per hour
+Germany,DEU,2023,WAGES,Average annual wages,72953.447,USD PPP per year
+Japan,JPN,2014,AVGHOURS,Average annual hours actually worked per worker,1729.0,Hours per year per person
+Japan,JPN,2014,GDPHOUR,GDP per hour worked,48.50120274020391,USD PPP per hour
+Japan,JPN,2014,WAGES,Average annual wages,51511.615,USD PPP per year
+Japan,JPN,2015,AVGHOURS,Average annual hours actually worked per worker,1719.0,Hours per year per person
+Japan,JPN,2015,GDPHOUR,GDP per hour worked,49.5954923573493,USD PPP per hour
+Japan,JPN,2015,WAGES,Average annual wages,51026.717,USD PPP per year
+Japan,JPN,2016,AVGHOURS,Average annual hours actually worked per worker,1714.0,Hours per year per person
+Japan,JPN,2016,GDPHOUR,GDP per hour worked,49.67983444304112,USD PPP per hour
+Japan,JPN,2016,WAGES,Average annual wages,51358.827,USD PPP per year
+Japan,JPN,2017,AVGHOURS,Average annual hours actually worked per worker,1709.0,Hours per year per person
+Japan,JPN,2017,GDPHOUR,GDP per hour worked,50.17980225240412,USD PPP per hour
+Japan,JPN,2017,WAGES,Average annual wages,51067.532,USD PPP per year
+Japan,JPN,2018,AVGHOURS,Average annual hours actually worked per worker,1680.0,Hours per year per person
+Japan,JPN,2018,GDPHOUR,GDP per hour worked,50.54514364919178,USD PPP per hour
+Japan,JPN,2018,WAGES,Average annual wages,51826.955,USD PPP per year
+Japan,JPN,2019,AVGHOURS,Average annual hours actually worked per worker,1644.0,Hours per year per person
+Japan,JPN,2019,GDPHOUR,GDP per hour worked,51.04591774712302,USD PPP per hour
+Japan,JPN,2019,WAGES,Average annual wages,52069.774,USD PPP per year
+Japan,JPN,2020,AVGHOURS,Average annual hours actually worked per worker,1597.011,Hours per year per person
+Japan,JPN,2020,GDPHOUR,GDP per hour worked,50.54510963834785,USD PPP per hour
+Japan,JPN,2020,WAGES,Average annual wages,51293.862,USD PPP per year
+Japan,JPN,2021,AVGHOURS,Average annual hours actually worked per worker,1607.483,Hours per year per person
+Japan,JPN,2021,GDPHOUR,GDP per hour worked,51.89442259589647,USD PPP per hour
+Japan,JPN,2021,WAGES,Average annual wages,51822.753,USD PPP per year
+Japan,JPN,2022,AVGHOURS,Average annual hours actually worked per worker,1606.995,Hours per year per person
+Japan,JPN,2022,GDPHOUR,GDP per hour worked,52.43174024938514,USD PPP per hour
+Japan,JPN,2022,WAGES,Average annual wages,51129.005,USD PPP per year
+Japan,JPN,2023,AVGHOURS,Average annual hours actually worked per worker,1610.745,Hours per year per person
+Japan,JPN,2023,GDPHOUR,GDP per hour worked,52.41203659606682,USD PPP per hour
+Japan,JPN,2023,WAGES,Average annual wages,49970.485,USD PPP per year
+South Korea,KOR,2014,AVGHOURS,Average annual hours actually worked per worker,2075.0,Hours per year per person
+South Korea,KOR,2014,GDPHOUR,GDP per hour worked,40.22897536368683,USD PPP per hour
+South Korea,KOR,2014,WAGES,Average annual wages,50476.464,USD PPP per year
+South Korea,KOR,2015,AVGHOURS,Average annual hours actually worked per worker,2082.0,Hours per year per person
+South Korea,KOR,2015,GDPHOUR,GDP per hour worked,40.82243320070815,USD PPP per hour
+South Korea,KOR,2015,WAGES,Average annual wages,51768.996,USD PPP per year
+South Korea,KOR,2016,AVGHOURS,Average annual hours actually worked per worker,2068.0,Hours per year per person
+South Korea,KOR,2016,GDPHOUR,GDP per hour worked,42.03072439640671,USD PPP per hour
+South Korea,KOR,2016,WAGES,Average annual wages,53213.789,USD PPP per year
+South Korea,KOR,2017,AVGHOURS,Average annual hours actually worked per worker,2018.0,Hours per year per person
+South Korea,KOR,2017,GDPHOUR,GDP per hour worked,44.024533172895936,USD PPP per hour
+South Korea,KOR,2017,WAGES,Average annual wages,54320.429,USD PPP per year
+South Korea,KOR,2018,AVGHOURS,Average annual hours actually worked per worker,1992.0,Hours per year per person
+South Korea,KOR,2018,GDPHOUR,GDP per hour worked,45.84885092953972,USD PPP per hour
+South Korea,KOR,2018,WAGES,Average annual wages,56175.921,USD PPP per year
+South Korea,KOR,2019,AVGHOURS,Average annual hours actually worked per worker,1966.0,Hours per year per person
+South Korea,KOR,2019,GDPHOUR,GDP per hour worked,47.00325357796071,USD PPP per hour
+South Korea,KOR,2019,WAGES,Average annual wages,58081.983,USD PPP per year
+South Korea,KOR,2020,AVGHOURS,Average annual hours actually worked per worker,1907.0,Hours per year per person
+South Korea,KOR,2020,GDPHOUR,GDP per hour worked,48.50871298442307,USD PPP per hour
+South Korea,KOR,2020,WAGES,Average annual wages,59418.876,USD PPP per year
+South Korea,KOR,2021,AVGHOURS,Average annual hours actually worked per worker,1910.0,Hours per year per person
+South Korea,KOR,2021,GDPHOUR,GDP per hour worked,49.98218558092898,USD PPP per hour
+South Korea,KOR,2021,WAGES,Average annual wages,59841.667,USD PPP per year
+South Korea,KOR,2022,AVGHOURS,Average annual hours actually worked per worker,1900.0,Hours per year per person
+South Korea,KOR,2022,GDPHOUR,GDP per hour worked,50.115665319839216,USD PPP per hour
+South Korea,KOR,2022,WAGES,Average annual wages,58696.806,USD PPP per year
+South Korea,KOR,2023,AVGHOURS,Average annual hours actually worked per worker,1872.0,Hours per year per person
+South Korea,KOR,2023,GDPHOUR,GDP per hour worked,51.07553647092985,USD PPP per hour
+South Korea,KOR,2023,WAGES,Average annual wages,59198.03,USD PPP per year
+United States,USA,2014,AVGHOURS,Average annual hours actually worked per worker,1830.36,Hours per year per person
+United States,USA,2014,GDPHOUR,GDP per hour worked,72.35346735812777,USD PPP per hour
+United States,USA,2014,WAGES,Average annual wages,75074.762,USD PPP per year
+United States,USA,2015,AVGHOURS,Average annual hours actually worked per worker,1831.118,Hours per year per person
+United States,USA,2015,GDPHOUR,GDP per hour worked,73.19851169166591,USD PPP per hour
+United States,USA,2015,WAGES,Average annual wages,76999.191,USD PPP per year
+United States,USA,2016,AVGHOURS,Average annual hours actually worked per worker,1822.366,Hours per year per person
+United States,USA,2016,GDPHOUR,GDP per hour worked,73.6846854784062,USD PPP per hour
+United States,USA,2016,WAGES,Average annual wages,77129.241,USD PPP per year
+United States,USA,2017,AVGHOURS,Average annual hours actually worked per worker,1820.449,Hours per year per person
+United States,USA,2017,GDPHOUR,GDP per hour worked,74.46483796197043,USD PPP per hour
+United States,USA,2017,WAGES,Average annual wages,77970.611,USD PPP per year
+United States,USA,2018,AVGHOURS,Average annual hours actually worked per worker,1825.66,Hours per year per person
+United States,USA,2018,GDPHOUR,GDP per hour worked,75.27728632091625,USD PPP per hour
+United States,USA,2018,WAGES,Average annual wages,78892.594,USD PPP per year
+United States,USA,2019,AVGHOURS,Average annual hours actually worked per worker,1822.579,Hours per year per person
+United States,USA,2019,GDPHOUR,GDP per hour worked,76.57222195017918,USD PPP per hour
+United States,USA,2019,WAGES,Average annual wages,80317.647,USD PPP per year
+United States,USA,2020,AVGHOURS,Average annual hours actually worked per worker,1799.777,Hours per year per person
+United States,USA,2020,GDPHOUR,GDP per hour worked,80.05585297032337,USD PPP per hour
+United States,USA,2020,WAGES,Average annual wages,85170.596,USD PPP per year
+United States,USA,2021,AVGHOURS,Average annual hours actually worked per worker,1818.849,Hours per year per person
+United States,USA,2021,GDPHOUR,GDP per hour worked,81.52020497270419,USD PPP per hour
+United States,USA,2021,WAGES,Average annual wages,86695.78,USD PPP per year
+United States,USA,2022,AVGHOURS,Average annual hours actually worked per worker,1809.896,Hours per year per person
+United States,USA,2022,GDPHOUR,GDP per hour worked,81.10142875669932,USD PPP per hour
+United States,USA,2022,WAGES,Average annual wages,84214.966,USD PPP per year
+United States,USA,2023,AVGHOURS,Average annual hours actually worked per worker,1804.95,Hours per year per person
+United States,USA,2023,GDPHOUR,GDP per hour worked,82.26885599486027,USD PPP per hour
+United States,USA,2023,WAGES,Average annual wages,83866.258,USD PPP per year

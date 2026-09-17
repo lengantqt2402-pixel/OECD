@@ -1,0 +1,41 @@
+﻿Country,Country_Code,Year,Indicator_Code,Indicator,Value,Unit
+Germany,DEU,2014,AVGHOURS,Average annual hours actually worked per worker,1400.0,Hours per year per person
+Germany,DEU,2015,AVGHOURS,Average annual hours actually worked per worker,1401.6,Hours per year per person
+Germany,DEU,2016,AVGHOURS,Average annual hours actually worked per worker,1395.8,Hours per year per person
+Germany,DEU,2017,AVGHOURS,Average annual hours actually worked per worker,1388.2,Hours per year per person
+Germany,DEU,2018,AVGHOURS,Average annual hours actually worked per worker,1380.7,Hours per year per person
+Germany,DEU,2019,AVGHOURS,Average annual hours actually worked per worker,1372.0,Hours per year per person
+Germany,DEU,2020,AVGHOURS,Average annual hours actually worked per worker,1313.6,Hours per year per person
+Germany,DEU,2021,AVGHOURS,Average annual hours actually worked per worker,1341.2,Hours per year per person
+Germany,DEU,2022,AVGHOURS,Average annual hours actually worked per worker,1343.4,Hours per year per person
+Germany,DEU,2023,AVGHOURS,Average annual hours actually worked per worker,1338.8,Hours per year per person
+Japan,JPN,2014,AVGHOURS,Average annual hours actually worked per worker,1729.0,Hours per year per person
+Japan,JPN,2015,AVGHOURS,Average annual hours actually worked per worker,1719.0,Hours per year per person
+Japan,JPN,2016,AVGHOURS,Average annual hours actually worked per worker,1714.0,Hours per year per person
+Japan,JPN,2017,AVGHOURS,Average annual hours actually worked per worker,1709.0,Hours per year per person
+Japan,JPN,2018,AVGHOURS,Average annual hours actually worked per worker,1680.0,Hours per year per person
+Japan,JPN,2019,AVGHOURS,Average annual hours actually worked per worker,1644.0,Hours per year per person
+Japan,JPN,2020,AVGHOURS,Average annual hours actually worked per worker,1597.011,Hours per year per person
+Japan,JPN,2021,AVGHOURS,Average annual hours actually worked per worker,1607.483,Hours per year per person
+Japan,JPN,2022,AVGHOURS,Average annual hours actually worked per worker,1606.995,Hours per year per person
+Japan,JPN,2023,AVGHOURS,Average annual hours actually worked per worker,1610.745,Hours per year per person
+South Korea,KOR,2014,AVGHOURS,Average annual hours actually worked per worker,2075.0,Hours per year per person
+South Korea,KOR,2015,AVGHOURS,Average annual hours actually worked per worker,2082.0,Hours per year per person
+South Korea,KOR,2016,AVGHOURS,Average annual hours actually worked per worker,2068.0,Hours per year per person
+South Korea,KOR,2017,AVGHOURS,Average annual hours actually worked per worker,2018.0,Hours per year per person
+South Korea,KOR,2018,AVGHOURS,Average annual hours actually worked per worker,1992.0,Hours per year per person
+South Korea,KOR,2019,AVGHOURS,Average annual hours actually worked per worker,1966.0,Hours per year per person
+South Korea,KOR,2020,AVGHOURS,Average annual hours actually worked per worker,1907.0,Hours per year per person
+South Korea,KOR,2021,AVGHOURS,Average annual hours actually worked per worker,1910.0,Hours per year per person
+South Korea,KOR,2022,AVGHOURS,Average annual hours actually worked per worker,1900.0,Hours per year per person
+South Korea,KOR,2023,AVGHOURS,Average annual hours actually worked per worker,1872.0,Hours per year per person
+United States,USA,2014,AVGHOURS,Average annual hours actually worked per worker,1830.36,Hours per year per person
+United States,USA,2015,AVGHOURS,Average annual hours actually worked per worker,1831.118,Hours per year per person
+United States,USA,2016,AVGHOURS,Average annual hours actually worked per worker,1822.366,Hours per year per person
+United States,USA,2017,AVGHOURS,Average annual hours actually worked per worker,1820.449,Hours per year per person
+United States,USA,2018,AVGHOURS,Average annual hours actually worked per worker,1825.66,Hours per year per person
+United States,USA,2019,AVGHOURS,Average annual hours actually worked per worker,1822.579,Hours per year per person
+United States,USA,2020,AVGHOURS,Average annual hours actually worked per worker,1799.777,Hours per year per person
+United States,USA,2021,AVGHOURS,Average annual hours actually worked per worker,1818.849,Hours per year per person
+United States,USA,2022,AVGHOURS,Average annual hours actually worked per worker,1809.896,Hours per year per person
+United States,USA,2023,AVGHOURS,Average annual hours actually worked per worker,1804.95,Hours per year per person
